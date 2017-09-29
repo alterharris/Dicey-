@@ -1,0 +1,11 @@
+.die {
+    height: 5em;
+    width: 5em;
+    display: inline-block;
+    background-color: #7A500B;
+    border: 2px solid black;
+    line-height: 5em;
+    text-align: center;
+    margin: 1em;
+    border-radius: 15px;
+}
